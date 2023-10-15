@@ -1,0 +1,95 @@
+body{
+	background-color: #27C530;
+	height:100vh;
+	max-width: 45rem;
+	margin-inline: auto;
+	border: 3px solid blue;
+}
+
+header{
+	background: white;
+	padding: 2em 0 2em 0;
+}
+
+.main{
+	display: flex;
+	flex: 1;
+}
+
+h1{
+	text-indent: 30%;
+	text-decoration: underline;
+	text-emphasis-color: blue;
+	text-size: 100px;
+	font-family: serif;
+}
+
+h2{
+	background-size: 60px;
+	text font-size: 15;
+}
+
+.img-bar {
+	box-shadow: 8px 8px 16px;
+	border-radius:20px;
+	background-color: purple;
+	padding-top: 3%;
+	width: 450px;	
+}
+
+.img-oreo {
+	border-radius: 30px;
+	background-color: red;
+	padding-top: 6%;
+	width: 400pxx;
+	height:50;
+}
+
+p{
+	text-indent: 30%;
+	width: 200px;
+	padding: 40px;
+	margin: 30px;
+}
+
+.left{
+	background: blue;
+	padding: 3em 0 3em 0;
+	flex: 1 1 100px;
+}
+
+h3{
+	background-color: #fffb00;
+	background-size: 70px;
+	font-family: TimesNewRoman;
+}
+
+.left{
+	background: blue;
+	padding: 3em 0 3em 0;
+	flex: 1 1 100px;
+}
+
+h4{
+	background-color: #00eaff;
+	background-size: 80px;
+	margin: 20px;
+}
+
+.center{
+	background: blue;
+	padding: 3em 0 3em 0;
+	flex: 1 1 100px;
+}
+
+h5{
+	background-color: #fffb00;
+	background-size: 90px;
+}
+
+.right{
+	background: blue;
+	padding: 3em 0 3em 0;
+	flex: 1 1 100px;
+}
+
