@@ -1,0 +1,18 @@
+body{
+	background-color: #27C530;
+	height: 100vh;
+	max-height: 50rem;
+	margin-inline: auto;
+	border:2px solid blue;
+}
+
+header{
+	background: white;
+	padding: 2em 0 2em 0;
+}
+
+h3{
+	background-color: #00eaff;
+	background-size: 70px;
+}
+
