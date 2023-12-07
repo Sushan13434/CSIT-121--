@@ -1,0 +1,53 @@
+body{
+	background-color: #FFE000;
+	height: 150vh;
+	max-width: 40rem;
+	margin-inline: auto;
+	border: 3px solid blue;
+}
+
+h1{
+	text-decoration: underline;
+	text-emphasis-color: blue;
+	text-size: 100px;
+	font-family: serif;
+	text-align: center;
+}
+
+.img-towson{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+.img-moon{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+.img-lot{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+.img-amc{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+
+
+
+
+
