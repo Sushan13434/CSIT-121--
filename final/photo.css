@@ -1,17 +1,53 @@
 body{
-	background-image: url(photo.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
+	background-color: #FFE000;
+	height: 150vh;
+	max-width: 40rem;
+	margin-inline: auto;
+	border: 3px solid blue;
 }
+
 h1{
-	background: linear-gradient(to right, skyblue, lightgreen);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	text-decoration: underline;
+	text-emphasis-color: blue;
+	text-size: 100px;
+	font-family: serif;
+	text-align: center;
 }
-p{
-	background: linear-gradient(to left., skyblue, lightgreen);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+
+.img-towson{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
 }
+
+.img-moon{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+.img-lot{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+.img-amc{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
+}
+
+
+
+
+
+

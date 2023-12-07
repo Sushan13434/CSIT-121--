@@ -1,9 +1,9 @@
 body{
 	background-color: #FFE000;
-	height:100vh;
-	max-width: 50rem;
+	height:150vh;
+	max-width: 40rem;
 	margin-inline: auto;
-	border: 5px solid blue;
+	border: 3px solid blue;
 }
 
 h1{
@@ -16,31 +16,33 @@ h1{
 
 .img-gym{
 	box-shadow: 8px 8px 16px;
-	border-radius:20px;
+	border-radius:10px;
 	background-color: black;
 	padding-top: 3%;
 	width: 200px;
 }
 .img-lifting{
 	box-shadow: 8px 8px 16px;
-	border-radius:20px;
+	border-radius:10px;
 	background-color: black;
 	padding-top: 3%;
 	width: 255px;
 }
 .img-bench{
-	border-radius: 30px;
-	background-color: red;
-	padding-top: 6%;
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
 	width: 200px;
-	height:50;
 }
 
-*{
-	margin: 5px;
-	box-sizing: border-box;
+.img-bike{
+	box-shadow: 8px 8px 16px;
+	border-radius: 10px;
+	background-color: black;
+	padding-top: 3%;
+	width: 200px;
 }
-
 
 
 
